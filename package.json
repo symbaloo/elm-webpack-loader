@@ -24,6 +24,9 @@
     "url": "https://github.com/elm-community/elm-webpack-loader/issues"
   },
   "homepage": "https://github.com/elm-community/elm-webpack-loader",
+  "publishConfig": {
+    "registry": "https://gitlab.com/api/v4/projects/30592445/packages/npm/"
+  },
   "dependencies": {
     "loader-utils": "^2.0.0",
     "node-elm-compiler": "^5.0.0"
