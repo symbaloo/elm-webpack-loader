@@ -1,5 +1,5 @@
 {
-  "name": "elm-webpack-loader",
+  "name": "@symbaloo/elm-webpack-loader",
   "version": "8.0.0",
   "description": "Webpack loader for the Elm programming language.",
   "main": "index.js",
